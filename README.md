@@ -19,7 +19,8 @@ Run the app
 flutter run
 Ensure Flutter SDK is installed. Follow: https://docs.flutter.dev/get-started/install
 
-![Image Alt]([image_url](https://github.com/amanxmhd/news_app/blob/main/ui.jpg?raw=true))
+![Image Alt](https://github.com/amanxmhd/news_app/blob/main/ui.jpg?raw=true))
+![Image Alt](https://github.com/amanxmhd/news_app/blob/main/bm.jpg?raw=true)
 
 
 
