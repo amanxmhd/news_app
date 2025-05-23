@@ -1,6 +1,3 @@
-cd /Users/aman/StudioProjects/news_app
-
-cat > README.md << 'EOF'
 # 📰 News App
 
 A modern Flutter news app that displays the latest headlines in a clean and responsive layout. Built using clean architecture principles and powered by popular Flutter packages.
